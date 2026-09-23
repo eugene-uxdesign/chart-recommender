@@ -36,7 +36,9 @@ chart-recommender/
 
 ## 사용 방법
 
-`chart-recommender/` 폴더를 Claude의 skills 디렉토리에 배치하거나, [claude.ai](https://claude.ai)의 Skill 업로드 기능을 통해 `chart-recommender.skill` 패키지 파일(또는 `SKILL.md`)을 등록하면 됩니다.
+가장 간단한 방법은 이 레포에 있는 **`chart-recommender.skill`** 파일을 다운로드해서 [claude.ai](https://claude.ai)의 Skill 업로드 기능으로 바로 등록하는 것입니다.
+
+또는 `chart-recommender/` 폴더(SKILL.md + references)를 직접 Claude의 skills 디렉토리에 배치해도 됩니다.
 
 사용 시에는 아래처럼 입력하면 됩니다.
 
@@ -46,3 +48,7 @@ chart-recommender/
 ## 상태
 
 초안(draft) 단계입니다. 실제 데이터로 테스트 케이스를 만들어 검증하고, 트리거 정확도(description)를 다듬는 과정이 아직 남아 있습니다.
+
+## License
+
+TODO: 라이선스를 아직 정하지 않았습니다. 공개 레포로 배포할 경우 MIT 등 라이선스 명시를 권장합니다.
