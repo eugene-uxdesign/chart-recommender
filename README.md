@@ -51,4 +51,4 @@ chart-recommender/
 
 ## License
 
-TODO: 라이선스를 아직 정하지 않았습니다. 공개 레포로 배포할 경우 MIT 등 라이선스 명시를 권장합니다.
+MIT License — 자세한 내용은 [LICENSE](./LICENSE) 파일을 참고하세요.
